@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2166c8ab.css",
-    "main.js": "/static/js/main.1f0b8fb1.js",
-    "static/media/UKFootball.jpg": "/static/media/UKFootball.9a1eca76cdf3fbed9b06.jpg",
+    "main.css": "/static/css/main.8866bdbf.css",
+    "main.js": "/static/js/main.941d4b75.js",
     "index.html": "/index.html",
-    "main.2166c8ab.css.map": "/static/css/main.2166c8ab.css.map",
-    "main.1f0b8fb1.js.map": "/static/js/main.1f0b8fb1.js.map"
+    "main.8866bdbf.css.map": "/static/css/main.8866bdbf.css.map",
+    "main.941d4b75.js.map": "/static/js/main.941d4b75.js.map"
   },
   "entrypoints": [
-    "static/css/main.2166c8ab.css",
-    "static/js/main.1f0b8fb1.js"
+    "static/css/main.8866bdbf.css",
+    "static/js/main.941d4b75.js"
   ]
 }
